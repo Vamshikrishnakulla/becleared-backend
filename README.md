@@ -1,4 +1,4 @@
-### `Getting Started`
+# `Getting Started`
 Install node.JS in your machine.\
 And install the postgreSql and pgadmin.\
 import the Database using the sql file provided in the repository.\
